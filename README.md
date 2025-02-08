@@ -4,7 +4,7 @@ This is a Flutter application that provides a conversational interface with an A
 
 ## Screenshot
 
-![Screenshot](![Uploading Untitled design.png…]()
+![Screenshot](![Untitled design](https://github.com/user-attachments/assets/8e3e3d4c-0178-47f1-8545-2bc38ebf0cf9)
 )
 
 ## Features
